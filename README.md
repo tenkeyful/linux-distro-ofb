@@ -52,3 +52,23 @@ Here're some websites to get started: (I personally peruse them so they're prett
 ---
 
 P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**.
+
+---
+# Windows <=> Linux
+| Windows | Linux |
+|---|---|
+| `C:\` | `/` |
+| `C:\Users\Name` | `/home/name` |
+| Explorer | File manager |
+| Task Manager | Process viewers such as `top`/`htop` |
+| Device Manager | Kernel/device subsystems + tools |
+| Windows Services | systemd services |
+| Registry | No direct equivalent |
+| `.exe` | No single universal equivalent |
+| `.msi` | No direct universal equivalent |
+| Microsoft Store | Repositories/package managers |
+| Control Panel/Settings | Multiple configuration interfaces |
+| Administrator | root / `sudo` |
+| `%APPDATA%` | Various config directories, commonly under `~/.config` |
+| `C:\Windows\System32` | No direct equivalent; `/usr`, `/etc`, `/var`, etc. have different purposes |
+| Windows Update | Distribution/package updates |
