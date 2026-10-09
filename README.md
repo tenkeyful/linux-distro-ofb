@@ -6,7 +6,7 @@
 - [GNU/Linux](#gnulinux)
 
 ---
-## [Windows 11](https://github.com/nhantrichuyenanh/win-11-ofb "nhantrichuyenanh")
+## [Windows 11](https://github.com/tenkeyful/win-11-ofb "tenkeyful")
 It's for everyone, from the casual home user to the office user to the competitive gamer to an IT admin. So everyone's experience using Windows 11 is relatively the same. In addition, many corporations use it, so it has to be backward compatible with old software. Because Windows 11 has to accommodate many needs, it's often unstable and buggy.
 
 So it's no surprise Windows is known for having its fair share of downsides:
