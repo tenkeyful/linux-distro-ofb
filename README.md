@@ -43,12 +43,14 @@ Meanwhile, some distros are for newly migrated users from Windows, some for comp
   - it is fixable, so why bother switching to GNU/Linux in the first place?
 
 Here're some websites to get started: (I personally peruse them so they're pretty trustworthy)
-- [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
-- [Windows to Linux for Powerusers](https://christitus.com/windows-to-linux "Chris Titus Tech")
+- [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus")
+- [Windows to Linux for Powerusers](https://christitus.com/windows-to-linux "Chris Titus")
+- [The Linux Desktop Guide](https://thelinuxbook.com/toc "Chris Titus")
 - [Linux explained](https://www.youtube.com/watch?v=vpdnMPDEBrg "Awesome")
 - [Linux Journey](https://labex.io/linuxjourney "labex.io")
 - [Ultimate Beginners Linux Ricing Guide](https://www.youtube.com/watch?v=CRLEfo_4X0M "Xigo")
 - [DistroSea](https://distrosea.com "basilky")
+
 ---
 
 P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**.
